@@ -1,4 +1,4 @@
-# PowerInsights OMS (Outage Management System)
+# PowerInsights OMS
 
 A modern web-based **Outage Management System (OMS)** designed to streamline the process of reporting, tracking, and resolving power-related issues efficiently.
 
@@ -48,3 +48,21 @@ It bridges the gap between **users, technicians, and administrators** for faster
 - Multi-language support (EN / HI)
 
 ---
+
+## Tech Stack
+
+### Frontend
+- React.js
+- Vite
+- Tailwind CSS / CSS
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB (Local / Atlas)
+
+### Other Tools
+- Socket.io (optional for real-time updates)
+- i18n (for multi-language support)
